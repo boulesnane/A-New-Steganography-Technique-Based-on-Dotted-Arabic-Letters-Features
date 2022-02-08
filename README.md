@@ -16,7 +16,7 @@ Matlab 2019 or later
 
 The main file is : HybridArSA.mlapp, so just run it after that you will get the following interface:
 
-![Uploading dotArStegano.JPG…]()
+<img src="/screenshot/dotArStegano.JPG">
 
 # REFERENCE
 ## Please refer to the following journal article in your research papers:
