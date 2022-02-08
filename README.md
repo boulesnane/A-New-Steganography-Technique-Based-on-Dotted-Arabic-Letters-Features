@@ -9,6 +9,15 @@ the capacity performance. Experiments show the effectiveness
 of our proposed technique by outperforming other existing
 steganography methods.
 
+# Requirements
+Matlab 2019 or later
+
+# Example of run
+
+The main file is : HybridArSA.mlapp, so just run it after that you will get the following interface:
+
+![Uploading dotArStegano.JPG…]()
+
 # REFERENCE
 ## Please refer to the following journal article in your research papers:
 Abdennour Boulesnane, Adel Beggag, and Mustapha Zedadik. "A New Steganography Technique Based on Dotted Arabic Letters Features." In 2021 International Conference on Networking and Advanced Systems (ICNAS), pp. 1-5. IEEE, 2021.
